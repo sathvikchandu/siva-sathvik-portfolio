@@ -14,7 +14,7 @@ const Home = () => {
           </p>
           <div>
             <button className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-red-500 to-blue-500 cursor-pointer' >
-              <a href='https://drive.google.com/file/d/1kRVyLph2crPqbcFqsp8F1uss_opFV0yy/view?usp=sharing' target='_new'>
+              <a href='https://drive.google.com/file/d/12MPa-V72JOGbZAR201sTHBglKnJ7Q4-Q/view?usp=sharing' target='_new'>
               Portfolio </a>
               <span className='group-hover:rotate-90 duration-300'>
               <TiArrowRightThick size={22} className="ml-1" />

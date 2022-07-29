@@ -14,6 +14,10 @@ function Navbar() {
             id:2,
             link:'about',
         },
+        {
+            id:3,
+            link:'projects',
+        },
         
         {
             id:4,
